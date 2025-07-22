@@ -201,16 +201,15 @@ font-weight: 700;
   filter: grayscale(100%);
 }
 
-/* footer{
-  background-color: #FFF4E7;
+.footer{
   text-align: center;
-  justify-content: center;
-  padding: 27px 410px 50px 41opx;
-  max-width: 1440px;
-  height: 100px;
+  background-color: #FFF4E7;
+  padding: 20px 20px;
   margin: 142px auto;
+  max-width: 1440px;
+  /* height: 100; */
   border-radius: 8px;
-}  */
+}
 
 
 /* responsive media query */
@@ -240,6 +239,8 @@ font-weight: 700;
   margin-top: 20px;
   margin-left: 20px;
 }
+
+
 }
 
 /* Medium size device */
